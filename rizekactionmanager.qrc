@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="dfg">
+    <file>add.png</file>
+  </qresource>
+</RCC>
